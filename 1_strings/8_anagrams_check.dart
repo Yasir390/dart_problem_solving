@@ -1,6 +1,6 @@
 void main() {
   String text1 = "aab";
-  String text2 = "abb";
+  String text2 = "aba";
   final res = anagramsCheck(text1, text2);
 
   print(res ? "Yes Anagrams" : "Not Anagrams");
