@@ -1,4 +1,4 @@
-// Prime number holo emon ekta natural number (1 er cheye boro) jeta shudhu 2 ta divisor thake —
+// Prime number holo emon ekta natural number (1 er cheye boro) jar only 2 ta divisor thake —
 // 1
 // nijer number ta
 // Mane, prime number ke kono onnanno number diye divide korle remainder thakbe, sudhu 1 ebong nijer number diye divide korle pura divisible hobe.
